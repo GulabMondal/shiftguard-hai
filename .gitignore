@@ -1,0 +1,12 @@
+data/
+cache/
+results/v2/raw/
+results/v3/scores*/
+results/v4/level59/
+__pycache__/
+*.pyc
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
